@@ -1,7 +1,7 @@
 # Flex-Slider
 **This project demonstrates how we can use the CSS property called flex-grow to create a slider while enjoying the beauty of Tuscany in Italy. 🌼🌱🍃🌿🌼🍷🍨🍝**
 
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
+![project view](https://github.com/user-attachments/assets/71fc5f57-b5d5-4dc9-9b7d-26b4821483be)
 
 
 
