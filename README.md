@@ -9,8 +9,7 @@
 
 - Developed by Shiva Rahimitabar
 
-- Created - 2024-10-26
-
+- Created - 2024-10-11
 - Technologies Used - Html , css 
 
 - Hooks Used : useState 
