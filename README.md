@@ -5,7 +5,7 @@
 
 
 
-- [Demo Project]()
+- [Demo Project](https://rahimitabarshiva.github.io/Flex-Slider/)
 
 - Developed by Shiva Rahimitabar
 
